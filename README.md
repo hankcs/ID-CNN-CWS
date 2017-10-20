@@ -16,7 +16,7 @@ It implements the following `4` models for CWS:
 - Python >= 3.6
 - TensorFlow >= 1.2
 
-Both CPU and GPU are supported. GPU training is $10$ times faster.
+Both CPU and GPU are supported. GPU training is `10` times faster.
 
 ## Preparation
 
