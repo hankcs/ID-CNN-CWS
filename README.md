@@ -1,9 +1,10 @@
 # ID-CNN-CWS
 Source codes and corpora of paper "Iterated Dilated Convolutions for Chinese Word Segmentation".
 
-![2017-10-20_13-23-31](http://wx1.sinaimg.cn/large/006Fmjmcly1fkp9raaac6j30dh0c2jup.jpg)
+![2017-10-20_13-23-31](http://wx3.sinaimg.cn/large/006Fmjmcly1fkpa3q8maej30dh0c2jup.jpg)
 
-It implements the following $4$ models for CWS:
+
+It implements the following `4` models for CWS:
 
 - Bi-LSTM
 - Bi-LSTM-CRF
@@ -54,7 +55,7 @@ $ ./scripts/run.sh pku cnn --viterbi
 
 ## Accuracy
 
-![2017-10-20_13-25-11](http://wx2.sinaimg.cn/large/006Fmjmcly1fkp9sysr4ej30dq0h9q8u.jpg)
+![2017-10-20_13-25-11](http://wx1.sinaimg.cn/large/006Fmjmcly1fkpa3in2haj30dq0h9q8u.jpg)
 
 
 ## Speed
