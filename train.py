@@ -590,7 +590,7 @@ if __name__ == '__main__':
 
     tf.app.flags.DEFINE_integer('log_every', 2, 'log status every k steps')
     tf.app.flags.DEFINE_string('embeddings', '', 'file of pretrained embeddings to use')
-    tf.app.flags.DEFINE_string('nonlinearity', 'relu', 'nonlinearity function to use (tanh, sigmoid, relu)')
+    tf.app.flags.DEFINE_string('nonlinearity', 'relu', 'nonlinearity function to use (tanh, sigmoid, relu, swish)')
     tf.app.flags.DEFINE_boolean('until_convergence', False, 'whether to run until convergence')
     tf.app.flags.DEFINE_boolean('evaluate_only', False, 'whether to only run evaluation')
     tf.app.flags.DEFINE_string('layers', '', 'json definition of layers (dilation, filters, width)')
