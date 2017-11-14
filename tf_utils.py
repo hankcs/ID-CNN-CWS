@@ -40,6 +40,8 @@ def apply_nonlinearity(parameters, nonlinearity_type):
         return tf.nn.tanh(parameters, name="tanh")
     elif nonlinearity_type == "sigmoid":
         return tf.nn.sigmoid(parameters, name="sigmoid")
+    elif nonlinearity_type == "swish":
+        return tf.nn.swish(parameters, name="swish")
 
 
 def embedding_values(shape, old=False):
