@@ -1,5 +1,5 @@
 # ID-CNN-CWS
-Source codes and corpora of paper "Iterated Dilated Convolutions for Chinese Word Segmentation".
+Source codes and corpora of paper "[Iterated Dilated Convolutions for Chinese Word Segmentation](http://www.nnw.cz/doi/2020/NNW.2020.30.022.pdf)" published in NNW journal.
 
 ![2017-10-20_13-23-31](http://wx3.sinaimg.cn/large/006Fmjmcly1fkpa3q8maej30dh0c2jup.jpg)
 
